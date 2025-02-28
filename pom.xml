@@ -15,7 +15,7 @@
   </properties>
 
   <dependencies>
-    <!-- ✅ Use JUnit 4 Instead of JUnit 5 -->
+    <!-- ✅ Use JUnit 4 Instead of JUnit 5 okokoookkokokokokokok -->
     <dependency>
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
